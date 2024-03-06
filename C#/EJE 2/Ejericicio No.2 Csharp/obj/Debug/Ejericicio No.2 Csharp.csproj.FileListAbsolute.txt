@@ -1,0 +1,7 @@
+C:\Users\Pablo\Desktop\Ejercicio Jueves Progra\Ejericicio No.2 Csharp\Ejericicio No.2 Csharp\bin\Debug\Ejericicio No.2 Csharp.exe.config
+C:\Users\Pablo\Desktop\Ejercicio Jueves Progra\Ejericicio No.2 Csharp\Ejericicio No.2 Csharp\bin\Debug\Ejericicio No.2 Csharp.exe
+C:\Users\Pablo\Desktop\Ejercicio Jueves Progra\Ejericicio No.2 Csharp\Ejericicio No.2 Csharp\bin\Debug\Ejericicio No.2 Csharp.pdb
+C:\Users\Pablo\Desktop\Ejercicio Jueves Progra\Ejericicio No.2 Csharp\Ejericicio No.2 Csharp\obj\Debug\Ejericicio No.2 Csharp.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\Ejercicio Jueves Progra\Ejericicio No.2 Csharp\Ejericicio No.2 Csharp\obj\Debug\Ejericicio No.2 Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\Ejercicio Jueves Progra\Ejericicio No.2 Csharp\Ejericicio No.2 Csharp\obj\Debug\Ejericicio No.2 Csharp.exe
+C:\Users\Pablo\Desktop\Ejercicio Jueves Progra\Ejericicio No.2 Csharp\Ejericicio No.2 Csharp\obj\Debug\Ejericicio No.2 Csharp.pdb
